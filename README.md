@@ -248,7 +248,7 @@ python "MITM (1).py"
 
 ## Authors
 
-- **Your Name** — [GitHub Profile](https://github.com/AviAvhale)
+- **Your Name** — Avinash Ganesh Avhale[GitHub Profile](https://github.com/AviAvhale)
 
 ---
 
